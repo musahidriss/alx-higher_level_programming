@@ -1,0 +1,1 @@
+New work Python exceptions
